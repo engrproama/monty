@@ -115,5 +115,5 @@ All programs and functions were compiled with `gcc 4.8.4` using flags `-Wall -We
 ## Styling
 All files have been written in the Betty Style.
 
-## Authors
+## Authors:
 **Precious Okwukwe Amaechi** - [Github](https://github.com/engrproama) [poamaechi@outlook.com](mailto:poamaechi@outlook.com)
