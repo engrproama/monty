@@ -119,5 +119,5 @@ All files have been written in the Betty Style.
 **Precious Okwukwe Amaechi** - [Github:](https://github.com/engrproama)
 [Email Me:](mailto:poamaechi@outlook.com)
 
-**Mohammed Ebunoluwa** - [Github:](https://github.com/MoChristie0505.)
-[Email Me:](olafimihanayomikunxty@gmail.com.)
+**Mohammed Ebunoluwa** - [Github:](https://github.com/MoChristie0505)
+[Email Me:](olafimihanayomikunxty@gmail.com)
